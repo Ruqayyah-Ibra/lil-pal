@@ -7,15 +7,10 @@
 .hero-section{
     background-color:#28282f;
     padding: 0px 40px;
-
 }
 
 ul {
     list-style:none;
-}
-
-.header .social-icons img {
-    width: 20px;
 }
 
 .header .left-side img {
@@ -36,4 +31,3 @@ ul {
 .header .social-icons img{
     width: 20px;
 }
-

@@ -21,6 +21,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .header .left-side {
@@ -30,4 +31,23 @@ ul {
 
 .header .social-icons img{
     width: 20px;
+}
+
+.header .right-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .right-side ul a {
+    color:white;
+    text-decoration: none;
+}
+
+.header .right-side ul{
+    display: inline-flex;
+}
+
+.header .right-side ul li{
+    margin-right: 20px;
 }

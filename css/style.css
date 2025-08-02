@@ -57,3 +57,17 @@ ul {
 .header .social-icons {
     margin-left: 10px;
 }
+
+.btn-primary {
+    background-color:#3e4560 ;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+    background-color: #ff1a1a;
+    transition: ease-in-out 0.2s;
+}

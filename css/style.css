@@ -70,3 +70,25 @@ ul {
     background-color: #ff1a1a;
     transition: ease-in-out 0.2s;
 }
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-content-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.hero-content-button button, p {
+    margin-right: 20px;
+}
+
+.hero-content img {
+    width:600px;
+
+}
